@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+  	font-family: Arial, sans-serif;
+  	font-size: 1em;
+  	line-height: 1.5;
+  	color: #777777;
+  	color: #7f7f7f;
+  	background: #fff;
+  	height: 100%;
+	position: relative;
+	margin:20px;
+}
+h2, h3{
+	color: #cc0000;
+}
+img {
+  	max-width: 100%;
+  	display: block;
+}
+
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+ul {
+  list-style-image: url(Images/deer16.png);
+}
+
+a:link {
+  color: #4CAF50;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #cc0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ff0000;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #009966;
+  background-color: transparent;
+  text-decoration: underline;
+}
