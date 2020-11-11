@@ -4,12 +4,12 @@ I Inlämningsuppgift1: Profil, så ska ni skapa en html sida som ska se ut som e
 
 Kraven för att klara uppgiften (G):
 
-Använda er av index
-Minst en bild
-Använd er av både headers och paragrafer
-Minst en lista
-Minst 4 länkar, varav minst en ska vara till en utomstående sida (t.ex. google.com)
-Minst en knapp har ett syfte (något ska hända när knappen trycks ner)
+- Använda er av index
+- Minst en bild
+- Använd er av både headers och paragrafer
+- Minst en lista
+- Minst 4 länkar, varav minst en ska vara till en utomstående sida (t.ex. google.com)
+- Minst en knapp har ett syfte (något ska hända när knappen trycks ner)
  
 
 VG krav 1: Ni ska dela upp er sida enligt html5 standarden 
