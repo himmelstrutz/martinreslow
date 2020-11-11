@@ -1,4 +1,5 @@
-I Inlämningsuppgift1: Profil, så ska ni skapa en html sida som ska se ut som en profilsida, fylld med information som är relevant för just en profilsida (vad eller vems profil väljer ni själva).
+## Inlämningsuppgift1: 
+Profil, så ska ni skapa en html sida som ska se ut som en profilsida, fylld med information som är relevant för just en profilsida (vad eller vems profil väljer ni själva).
 
  
 
@@ -12,9 +13,9 @@ Kraven för att klara uppgiften (G):
 - Minst en knapp har ett syfte (något ska hända när knappen trycks ner)
  
 
-VG krav 1: Ni ska dela upp er sida enligt html5 standarden 
+- VG krav 1: Ni ska dela upp er sida enligt html5 standarden 
 
-VG krav 2: är att ni ska skapa och lägga till en “Favicon” till er sida
+- VG krav 2: är att ni ska skapa och lägga till en “Favicon” till er sida
 
 OBS! Lämna in via Github pages
 
