@@ -1,3 +1,23 @@
+I Inlämningsuppgift1: Profil, så ska ni skapa en html sida som ska se ut som en profilsida, fylld med information som är relevant för just en profilsida (vad eller vems profil väljer ni själva).
+
+ 
+
+Kraven för att klara uppgiften (G):
+
+Använda er av index
+Minst en bild
+Använd er av både headers och paragrafer
+Minst en lista
+Minst 4 länkar, varav minst en ska vara till en utomstående sida (t.ex. google.com)
+Minst en knapp har ett syfte (något ska hända när knappen trycks ner)
+ 
+
+VG krav 1: Ni ska dela upp er sida enligt html5 standarden 
+
+VG krav 2: är att ni ska skapa och lägga till en “Favicon” till er sida
+
+OBS! Lämna in via Github pages
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/himmelstrutz/reslow/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
