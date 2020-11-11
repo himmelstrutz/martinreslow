@@ -1,5 +1,5 @@
 ## Inlämningsuppgift1: 
-### Profi 
+### Profil
 Ni ska skapa en htmlsida som ska se ut som en profilsida, fylld med information som är relevant för just en profilsida (vad eller vems profil väljer ni själva).
 
  
