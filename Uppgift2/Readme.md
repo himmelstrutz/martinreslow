@@ -26,8 +26,10 @@ Bonus överningar :
 
 Övning 1:
 Skapa en lista, sen gör en stil för bara en av raderna i listan
+
 Övning 2:
 Runda hörnen på en blid
+
 Övning 3:
 Centrera en bild
 Vi går igenom dessa på onsdag
