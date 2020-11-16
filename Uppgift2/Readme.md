@@ -22,6 +22,16 @@ VG krav 2,, lägg till en "Parallax Scrolling" effekt (https://jolly-kalam-23776
 
 Ni ska lämna in uppgiften som en Github pages länk, och lägg också till er vad är valda restaurang.
 
+Bonus överningar :
+
+Övning 1:
+Skapa en lista, sen gör en stil för bara en av raderna i listan
+Övning 2:
+Runda hörnen på en blid
+Övning 3:
+Centrera en bild
+Vi går igenom dessa på onsdag
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/himmelstrutz/reslow/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
