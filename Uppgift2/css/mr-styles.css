@@ -71,7 +71,7 @@ body {
 	padding-bottom: 250px;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center center;
 	/*background-size: 100vw auto;*/
 	 -webkit-background-size: cover;
     	-moz-background-size: cover;
