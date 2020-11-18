@@ -72,10 +72,8 @@ body {
 	padding-bottom: 250px;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	width: 100vw;
-	height: 100vh;
-	background-position: center, center;
-	background-size: 100vw auto;
+	background-position: center;
+	/*background-size: 100vw auto;*/
 }
 #hero {
 	background-color: #B3B3B3;
