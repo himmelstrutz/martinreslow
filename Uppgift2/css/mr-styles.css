@@ -73,6 +73,9 @@ body {
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
+	width: 100vw;
+	height: 100vh;
+	background-position: center, center;
 }
 #hero {
 	background-color: #B3B3B3;
@@ -432,18 +435,7 @@ footer {
 	.footer_column {
 		width: 100%;
 	}
-	.hero {
-	background-image: url(../img/revolution.jpg);
-	background-size: cover;
-	background-color: #B3B3B3;
-	padding-top: 250px;
-	padding-bottom: 250px;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-position: center;
-	resize: both;
-  	overflow: scroll;
-}
+	
 }
 /* top nav mobile*/
 
