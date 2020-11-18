@@ -413,6 +413,10 @@ footer {
 		line-height: 22px;
 		text-align: center;
 	}
+	.hero
+	{
+		background-attachment:scroll;
+	}
 }
 /* Small Tablets */
 
@@ -437,6 +441,10 @@ footer {
 	}
 	.footer_column {
 		width: 100%;
+	}
+	.hero
+	{
+		background-attachment:scroll;
 	}
 	
 }
