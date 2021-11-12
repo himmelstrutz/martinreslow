@@ -416,6 +416,7 @@ footer {
 	.hero
 	{
 		background-attachment:scroll;
+		background-size: 100vmax 100vmax;
 	}
 }
 /* Small Tablets */
@@ -445,6 +446,7 @@ footer {
 	.hero
 	{
 		background-attachment:scroll;
+		background-size: 100vmax 100vmax;
 	}
 	
 }
@@ -462,6 +464,7 @@ footer {
 	.hero
 	{
 		background-attachment:scroll;
+		background-size: 100vmax 100vmax;
 	}
 }
 @media screen and (max-width: 600px) {
@@ -482,6 +485,7 @@ footer {
 	.hero
 	{
 		background-attachment:scroll;
+		background-size: 100vmax 100vmax;
 	}
 }
 /* Small Desktops */
@@ -493,5 +497,6 @@ footer {
 	.hero
 	{
 		background-attachment:scroll;
+		background-size: 100vmax 100vmax;
 	}
 }
