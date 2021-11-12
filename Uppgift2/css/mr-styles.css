@@ -458,6 +458,11 @@ footer {
 		float: right;
 		display: block;
 	}
+	
+	.hero
+	{
+		background-attachment:scroll;
+	}
 }
 @media screen and (max-width: 600px) {
 	.topnav.responsive {
@@ -473,11 +478,20 @@ footer {
 		display: block;
 		text-align: left;
 	}
+	
+	.hero
+	{
+		background-attachment:scroll;
+	}
 }
 /* Small Desktops */
 
 @media (min-width: 768px) and (max-width: 1096px) {
 	.text_column {
 		width: 100%;
+	}
+	.hero
+	{
+		background-attachment:scroll;
 	}
 }
