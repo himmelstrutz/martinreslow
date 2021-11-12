@@ -79,6 +79,8 @@ body {
    	 background-size: cover;
     	height: 100%;
     	overflow: hidden;
+	background-size: 100vmax 100vmax;
+	position: top center;
 }
 #hero {
 	background-color: #B3B3B3;
